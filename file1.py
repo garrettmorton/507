@@ -1,6 +1,7 @@
 #new comment
 
 #we added a thing early!
+#but then we deleted it
 import random
 
 #another new comment!
